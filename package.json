@@ -1,0 +1,24 @@
+{
+  "name": "quaiantiquerestaurant",
+  "version": "1.0.0",
+  "description": "Ce site est un site vitrine pour le restaurant Quai Antique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janatmhd/QuaiAntiqueRestaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janatmhd/QuaiAntiqueRestaurant/issues"
+  },
+  "homepage": "https://github.com/Janatmhd/QuaiAntiqueRestaurant#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
