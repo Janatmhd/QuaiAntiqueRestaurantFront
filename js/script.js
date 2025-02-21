@@ -87,3 +87,10 @@ function showAndHideElementsForRoles(){
         }
     })
 }
+
+
+function sanitizeHTML(text){
+    const tempsHtml = document.createElement('div');
+    tempsHtml.textContent = text;
+    return tempsHtml.innerHTML;
+}
